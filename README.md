@@ -1,7 +1,7 @@
 Experiment No.1
 Title: Installation and Setup of Android Studio
 1. Objective To download, install, and set up Android Studio, the official IDE for Android application development.
-2. Introduction Android Studio is the official Integrated Development Environment (IDE) for Google's Android operating system, built on JetBrains' IntelliJ IDEA software. It provides tools for building, testing, and debugging Android apps. This lab helps students get familiar with the development environment for creating mobile applications.
+2. Introduction=>Android Studio is the official Integrated Development Environment (IDE) for Google's Android operating system, built on JetBrains' IntelliJ IDEA software. It provides tools for building, testing, and debugging Android apps. This lab helps students get familiar with the development environment for creating mobile applications.
 3. Tools and Requirements Component Minimum Requirement Operating System Windows 10/11 (64-bit), macOS, or Linux RAM 8 GB (16 GB recommended) Disk Space 4 GB minimum + space for Android SDK Java Comes pre-packaged with Android Studio Internet Required for downloading and first-time setup
 4. Procedure:
 Step 1: Download Android Studio Open your browser and go to https://developer.android.com/studio Click on “Download Android Studio” Accept the license agreement Save the installer file on your computer.
